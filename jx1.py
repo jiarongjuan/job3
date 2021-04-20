@@ -31,11 +31,8 @@ def paint(list11=[],list22=[]):
     import matplotlib.pyplot as plt
     plt.scatter(list11,list22)
     plt.show()
-
-
-
+    
 #排序
-
 
 def sort(list11=[],list22=[]):
     win1 = tkinter.Toplevel()
